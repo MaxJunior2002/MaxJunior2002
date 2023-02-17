@@ -1,4 +1,4 @@
-<h2 align="center">Olá , eu sou Max!</h2>
+<h2 align="center">Olá, eu sou Max!</h2>
 <h3 align="center">Engenheiro de Computação em progresso⌛</h3>
 
 <a href="https://https://www.instagram.com/maxjunior2002/" target="_blank"><img align="left" src="icons/linkedin.png" alt="max" width="32px" /></a>
